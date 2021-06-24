@@ -21,3 +21,7 @@ Focus on while loop
 import random
 
 #5.QR Code With Python
+In terminal run these package:
+import qrcode
+
+1. pip install qrcode
