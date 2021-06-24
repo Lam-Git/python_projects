@@ -15,7 +15,9 @@ Sign in and go to --> API key ---> copy that key into
 
 #3.Countdown Timer
 Focus on while loop
-time library
+(import time) -library
 
 #4.Password Generator
+import random
+
 #5.QR Code With Python
