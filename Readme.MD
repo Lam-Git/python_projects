@@ -18,7 +18,11 @@ Focus on while loop
 (import time) -library
 
 #4.Password Generator
+<<<<<<< HEAD
 import random
+=======
+
+>>>>>>> d6d58c7e7e0c252f6792610a760d0a02a2f97e8a
 
 #5.QR Code With Python
 In terminal run these package:
